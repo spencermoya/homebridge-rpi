@@ -137,6 +137,10 @@
                         "enum": [
                           "switch"
                         ]
+                        "title": "MultiState"
+                        "enum": [
+                          "MultiState"
+                        ]
                       },
                       {
                         "title": "Valve",
@@ -239,6 +243,7 @@
                               "servo",
                               "smoke",
                               "switch",
+                              "MultiState",
                               "valve"
                             ]
                           }
@@ -265,6 +270,7 @@
                               "servo",
                               "smoke",
                               "switch",
+                              "MultiState",
                               "valve"
                             ]
                           }
@@ -319,6 +325,7 @@
                               "motion",
                               "smoke",
                               "switch",
+                              "MultiState",
                               "valve"
                             ]
                           }
